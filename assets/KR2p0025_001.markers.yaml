@@ -240,6 +240,7 @@ markers:
   - {type: 'tls:seg', offset: 385, content: '', id: KR2p0025_tls_001-11a.1}
   - {type: 'tls:seg', offset: 386, content: '', id: KR2p0025_tls_001-11a.2}
   - {type: punctuation, offset: 388, content: (, id: KR2p0025_tls_001-bkkpn99}
+  - {type: voice, offset: 388, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 390, content: ), id: KR2p0025_tls_001-bkkpn100}
   - {type: punctuation, offset: 390, content: ，, id: KR2p0025_tls_001-bkkpn101}
   - {type: 'tls:seg', offset: 390, content: '', id: KR2p0025_tls_001-11a.3}
@@ -255,12 +256,14 @@ markers:
   - {type: punctuation, offset: 406, content: ',', id: KR2p0025_tls_001-bkkpn104}
   - {type: 'tls:seg', offset: 406, content: '', id: KR2p0025_tls_001-12a.2}
   - {type: punctuation, offset: 406, content: (, id: KR2p0025_tls_001-bkkpn105}
+  - {type: voice, offset: 406, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 408, content: ), id: KR2p0025_tls_001-bkkpn106}
   - {type: punctuation, offset: 408, content: '[', id: KR2p0025_tls_001-bkkpn107}
   - {type: punctuation, offset: 409, content: ']', id: KR2p0025_tls_001-bkkpn108}
   - {type: punctuation, offset: 414, content: ，, id: KR2p0025_tls_001-bkkpn109}
   - {type: 'tls:seg', offset: 414, content: '', id: KR2p0025_tls_001-12a.3}
   - {type: punctuation, offset: 419, content: (, id: KR2p0025_tls_001-bkkpn110}
+  - {type: voice, offset: 419, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 420, content: ), id: KR2p0025_tls_001-bkkpn111}
   - {type: substitution, offset: 420, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 421, content: 。, id: KR2p0025_tls_001-bkkpn112}
@@ -434,6 +437,7 @@ markers:
   - {type: punctuation, offset: 712, content: ，, id: KR2p0025_tls_001-bkkpn186}
   - {type: 'tls:seg', offset: 712, content: '', id: KR2p0025_tls_001-19a.11}
   - {type: punctuation, offset: 713, content: (, id: KR2p0025_tls_001-bkkpn187}
+  - {type: voice, offset: 713, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 714, content: /, id: KR2p0025_tls_001-bkkpn188}
   - {type: punctuation, offset: 715, content: ), id: KR2p0025_tls_001-bkkpn189}
   - {type: 'tls:seg', offset: 716, content: '', id: KR2p0025_tls_001-19a.12}
@@ -540,8 +544,10 @@ markers:
   - {type: 'tls:seg', offset: 861, content: '', id: KR2p0025_tls_001-24a.10}
   - {type: punctuation, offset: 865, content: (, id: KR2p0025_tls_001-bkkpn226}
   - {type: punctuation, offset: 865, content: '=', id: KR2p0025_tls_001-bkkpn227}
+  - {type: voice, offset: 865, length: 1, name: note, id: n5}
   - {type: punctuation, offset: 866, content: ), id: KR2p0025_tls_001-bkkpn228}
   - {type: punctuation, offset: 868, content: (, id: KR2p0025_tls_001-bkkpn229}
+  - {type: voice, offset: 868, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 869, content: ), id: KR2p0025_tls_001-bkkpn230}
   - {type: punctuation, offset: 870, content: 。, id: KR2p0025_tls_001-bkkpn231}
   - {type: 'tls:seg', offset: 870, content: '', id: KR2p0025_tls_001-24a.11}
@@ -573,6 +579,7 @@ markers:
   - {type: punctuation, offset: 912, content: '[', id: KR2p0025_tls_001-bkkpn241}
   - {type: punctuation, offset: 913, content: (, id: KR2p0025_tls_001-bkkpn242}
   - {type: punctuation, offset: 913, content: '=', id: KR2p0025_tls_001-bkkpn243}
+  - {type: voice, offset: 913, length: 1, name: note, id: n7}
   - {type: punctuation, offset: 914, content: ), id: KR2p0025_tls_001-bkkpn244}
   - {type: punctuation, offset: 914, content: ']', id: KR2p0025_tls_001-bkkpn245}
   - {type: xml-element, offset: 916, content: '', id: KR2p0025_tls_001-bkkxmlele52, name: p, role: close, attrs: {source: GUODIAN ZUNDEYI 12.26. SLIP 30}}
@@ -590,4 +597,4 @@ markers:
   - {type: punctuation, offset: 938, content: 。, id: KR2p0025_tls_001-bkkpn249}
   - {type: xml-element, offset: 938, content: '', id: KR2p0025_tls_001-bkkxmlele54, name: p, role: close, attrs: {source: GUODIAN ZUNDEYI 12.27. SLIP 39}}
   back: []
-hash: sha256:292de1d19daa4aca03c1ea55099fbd2e50ba296b9dc4b8ca9555d73aff85bcc8
+hash: sha256:37d5b1a648f8e3f91b74412d3ea3b8a3148d9428b2c7023f096b44a9b9783bf3

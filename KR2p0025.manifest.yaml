@@ -21,7 +21,7 @@ assets:
   parts:
   - {seq: 1, filename: KR2p0025_001.yaml, hash: 'sha256:7d2a6a5e5310d83bb5d9aefdd50de529813da65c9a59d52b5f414b8448211f99'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0025_001.markers.yaml, hash: 'sha256:292de1d19daa4aca03c1ea55099fbd2e50ba296b9dc4b8ca9555d73aff85bcc8'}
+  - {seq: 1, role: markers, filename: assets/KR2p0025_001.markers.yaml, hash: 'sha256:37d5b1a648f8e3f91b74412d3ea3b8a3148d9428b2c7023f096b44a9b9783bf3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -33,7 +33,7 @@ table_of_contents:
   label: ''
   type: section
   level: 1
-hash: sha256:4599c36a095879f9f68dbfc475579ed375b8ce7d488c46c34f4ebc45fe416a00
+hash: sha256:7ba7697324cffadf194e0ead7dd39019135d1b002c825b76afc62fea47daedcf
 editions:
 - short: tls
 mappings:
